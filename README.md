@@ -56,9 +56,9 @@ Level|Name|Description
 1 WAR|Throw Stone|AOE frontal arc cone based on ranged slot
 5 ROG|Stealth|Permanent ivu/invis, must be out of combat
 15 ROG|Smuggle|Short group invis, must be out of combat
-20 ROG|Vanish|Short duration Shroud of Stealth and Fading Memories effect.
+20 ROG|Vanish (BROKEN)|Short duration Shroud of Stealth and Fading Memories effect.
 ?? RNG|Barrage|
-60 ROG|Shroud of Stealth|Like Stealth, but improved
+60 ROG|Shroud of Stealth (BROKEN)|Like Stealth, but improved
 254 MNK|Fucking Kick|Strong kick
 
 # Portal
