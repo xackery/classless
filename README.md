@@ -19,7 +19,7 @@ EQ Classless is the 3.0 version of a private custom server.
 
 # Portal
 - Wizard Spire and Druid Circle unlocks require current character to either have the spell in their spellbook. Unlocking account wide requires clicking via the portal the destinations at least once.
-- Mercenary unlock happens at around level 20 randomly on kills
+- [Mercenary](#Mercenary) unlock happens at around level 20 randomly on kills
 
 # Classless
 Classless refers to characters who choose to leave their classed identity to become every class as one. Turning classless is a one time change, you cannot revert back to Classed after.
@@ -61,6 +61,16 @@ Level|Name|Description
 60 ROG|Shroud of Stealth (BROKEN)|Like Stealth, but improved
 254 MNK|Fucking Kick|Strong kick
 
+# Mercenaries
+
+You can summon one of your alts and it will do a feeble attempt of playing them as a group mate.
+- Direct damage spells are currently broken
+- It will root a target
+- It will cast buffs on group mates
+- It will summon pets, but the pets will come up on tab target and annoy group mates
+- It will not use double attack passive bonuses
+- It will do odd behaviors on deciding targets and make you cry
+
 # Portal
 
 # Synergy
@@ -81,9 +91,9 @@ When a monster drops a stackable item that you already have inside a bag, you wi
 - All Augments are NO TRADE.
 
 # Gear
-- Wearing a shield causes a 30% damage reduction to all outgoing and incoming damage, potentially?
-- Wearing full plate is an additional 30% damage reduction to all outgoing and incoming damage? Or maybe not.. it does something similar-ish
-- Leather and Chain and mixed gear will calculate the damage reduction the closer it is to plate.. I believe.
-- Wearing full cloth has something similar to no damage reduction innate bonus
+- Wearing a shield causes a 30% damage reduction bonus to all outgoing and incoming damage
+- Wearing full plate is an additional 20% damage reduction to all outgoing and incoming damage
+- Leather and Chain and mixing gear will calculate the damage reduction the closer it is to plate
+- Wearing full cloth has to no damage reduction bonus
 - Power source and Charm slot do things I'm not aware of yet.
-- Ammo slot does odd desync issues and arrows are wonky
+- Arrows are not consumed (Ranged attack is buggy)
