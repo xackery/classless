@@ -81,9 +81,9 @@ When a monster drops a stackable item that you already have inside a bag, you wi
 - All Augments are NO TRADE.
 
 # Gear
-- Wearing a shield causes a 30% damage reduction to all outgoing and incoming damage.
-- Wearing full plate is an additional 30% damage reduction to all outgoing and incoming damage.
-- Leather and Chain and mixed gear will calculate the damage reduction the closer it is to plate.
-- Wearing full cloth has no damage reduction.
-- Power source and Charm slot is disabled
-- Arrows are not used
+- Wearing a shield causes a 30% damage reduction to all outgoing and incoming damage, potentially?
+- Wearing full plate is an additional 30% damage reduction to all outgoing and incoming damage? Or maybe not.. it does something similar-ish
+- Leather and Chain and mixed gear will calculate the damage reduction the closer it is to plate.. I believe.
+- Wearing full cloth has something similar to no damage reduction innate bonus
+- Power source and Charm slot do things I'm not aware of yet.
+- Ammo slot does odd desync issues and arrows are wonky
