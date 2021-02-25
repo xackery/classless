@@ -14,7 +14,8 @@ EQ Classless is the 3.0 version of a private custom server.
 - No Experience is lost on death
 - MQ2 features such as map and DPS are enabled for everyone and built into client.
 - All levels can group together.
-- 25% flat reduction to EXP for being grouped, so once you have a group of 2, no penalty to fill it with 6.
+- 25% flat reduction to EXP for being grouped, so once you have a group of 2, no penalty to fill it with 6
+- Tradeskills give significant EXP each skillup
 
 # Classless
 Classless refers to characters who choose to leave their classed identity to become every class as one. Turning classless is a one time change, you cannot revert back to Classed after.
@@ -39,6 +40,7 @@ Race have no innate abilities anymore, and is just a visual and faction impactin
 # AA
 - Darksign: kills the caster to cause them to return to Relic. Killing yourself via other means has the same effect, and no XP penalty on death is in effect.
 - Respec AA: Resets all spent AA points. This will suspend merc, remove all buffs, and destroy all pets. There is no permanent penalty to this, so it can be changed as often as desired.
+- Distill Augment: While holding an item, using this active AA will cause the item on hand to be destroyed and be replaced with the augment inside
 
 # Spells
 
@@ -49,11 +51,12 @@ Level|Name|Description
 1 ROG/WAR/MNK|Slam|
 1 WAR|Throw Stone|AOE frontal arc cone based on ranged slot
 5 ROG|Stealth|Permanent ivu/invis, must be out of combat
-15|Smuggle|Short group invis, must be out of combat
-20|Vanish|Short duration Shroud of Stealth and Fading Memories effect.
-60|Shroud of Stealth|Like Stealth, but improved
-254 MNK|Fucking Kick|Strong kick
+15 ROG|Smuggle|Short group invis, must be out of combat
+20 ROG|Vanish|Short duration Shroud of Stealth and Fading Memories effect.
 ?? RNG|Barrage|
+60 ROG|Shroud of Stealth|Like Stealth, but improved
+254 MNK|Fucking Kick|Strong kick
+
 # Synergy
 Synergy causes spells to do bonuses based on how many of the same category are on your spell bar. In the auto equip area of inventory you can see the % of synergy if [Classless](#Classless). If [Classed](#Classed), you are always maximum synergy.
    
