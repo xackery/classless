@@ -17,6 +17,10 @@ EQ Classless is the 3.0 version of a private custom server.
 - 25% flat reduction to EXP for being grouped, so once you have a group of 2, no penalty to fill it with 6
 - Tradeskills give significant EXP each skillup
 
+# Portal
+- Wizard Spire and Druid Circle unlocks require current character to either have the spell in their spellbook. Unlocking account wide requires clicking via the portal the destinations at least once.
+- Mercenary unlock happens at around level 20 randomly on kills
+
 # Classless
 Classless refers to characters who choose to leave their classed identity to become every class as one. Turning classless is a one time change, you cannot revert back to Classed after.
 - Can finish and wear all epics
@@ -56,6 +60,8 @@ Level|Name|Description
 ?? RNG|Barrage|
 60 ROG|Shroud of Stealth|Like Stealth, but improved
 254 MNK|Fucking Kick|Strong kick
+
+# Portal
 
 # Synergy
 Synergy causes spells to do bonuses based on how many of the same category are on your spell bar. In the auto equip area of inventory you can see the % of synergy if [Classless](#Classless). If [Classed](#Classed), you are always maximum synergy.
