@@ -92,8 +92,7 @@ When a monster drops a stackable item that you already have inside a bag, you wi
 
 # Gear
 - Wearing a shield causes a 30% damage reduction bonus to all outgoing and incoming damage
-- Wearing full plate is an additional 20% damage reduction to all outgoing and incoming damage
-- Leather and Chain and mixing gear will calculate the damage reduction the closer it is to plate
+- Wearing full plate is an additional 20% damage reduction bonus to all outgoing and incoming damage
+- Leather and Chain and mixing gear will calculate the damage reduction bonus the closer it is to plate in sturdiness
 - Wearing full cloth has to no damage reduction bonus
-- Power source and Charm slot do things I'm not aware of yet.
 - Arrows are not consumed (Ranged attack is buggy)
